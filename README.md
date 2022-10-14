@@ -1,2 +1,1 @@
-# FirstRepository
-Working with text files
+# Paragon z warzywniaka
